@@ -40,6 +40,8 @@ Step 6: Responses The responses available are Text, Option, Pause and Image. I u
 ![](Images/8.png)
 Creating and training intents
 ![](Images/7.png)
+Actions and parameters used
+![](Images/13.png)
 
 ![](Images/12.png)
 Creating Entities
