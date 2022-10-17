@@ -56,8 +56,8 @@ This chatbot requires lot more intents and entities to make it robust
 Building simple chatbot using google dialogflow
 
 # Submitted by
-Resaf Roshan P M
-21MBMA48
+Resaf Roshan P M,
+21MBMA48,
 MBA (GEN) 2021-23
 
 
