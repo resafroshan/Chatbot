@@ -4,7 +4,7 @@ This chatbot is built to reduce human efforts and automate booking consultations
 # Methodology
 The entire process of booking appointments are studied and noted down to build this chatbot
 
-# tools used
+# Tools used
 Google's DialogFlow platform is being used in entire process of the building process
 
 # Link to access the chatbot
